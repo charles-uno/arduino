@@ -12,3 +12,5 @@ You should see a pulse of light which travels along the length of the 14-pixel s
 - `V_PULSE` -- Velocity of the pulse, in pixels per second.
 
 The time step is set by `DT`, in milliseconds. The current value seems to work pretty well. Increasing the time step will make the code less computationally demanding, but it might look choppy.
+
+More information about the hardware and pinout [here](https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections)
